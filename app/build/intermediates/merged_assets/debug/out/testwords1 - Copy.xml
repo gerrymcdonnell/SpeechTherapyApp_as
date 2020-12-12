@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+	<word>
+		<wordtitle>word 1</wordtitle>
+		<picturepath>sdfds.jpg</picturepath>
+		<audiofile>thisword.wav</audiofile>
+	</word>
+	
+	<word>
+		<wordtitle>word 2</wordtitle>
+		<picturepath>sdfds.jpg</picturepath>
+	</word>
+</words>

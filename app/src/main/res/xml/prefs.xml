@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >        
+
+    	 
+	  <PreferenceCategory android:title="Audio Settings" >        
+	  	<SwitchPreference
+        android:defaultValue="true"
+        android:title="Enable Text To Speech"
+        android:key="enableTTS"
+        android:summary="Enable Text To Speech"
+        />  	 
+        
+	  	
+	 	<SwitchPreference
+        android:defaultValue="true"
+        android:title="Enable Audio Playback"
+        android:key="enableAudioFilePlayBack"
+        android:summary="Playback audio file associated with word."
+        />  	  		
+	  </PreferenceCategory>	 
+	  
+	  
+	  <PreferenceCategory android:title="Display Settings" >        
+	  	<SwitchPreference
+        android:defaultValue="true"
+        android:title="Enable Display Pictures"
+        android:key="enableDisplayPictures"
+        android:summary="Display Pictures"
+        />         
+	  	
+	 	<SwitchPreference
+        android:defaultValue="true"
+        android:title="Enable Word Syllables"
+        android:key="enableWordSyllables"
+        android:summary="Show Word Broken down into Syllables"
+        />  	  		
+	  </PreferenceCategory>	 
+	  	
+
+</PreferenceScreen>

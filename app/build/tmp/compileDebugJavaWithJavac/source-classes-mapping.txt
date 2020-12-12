@@ -1,0 +1,17 @@
+com/example/speechtherapyapp/BuildConfig.java
+ com.example.speechtherapyapp.BuildConfig
+com/example/speechtherapyapp/business/WordSession.java
+ com.example.speechtherapyapp.business.WordSession
+com/example/speechtherapyapp/settings/MyPrefs.java
+ com.example.speechtherapyapp.settings.MyPrefs
+com/example/speechtherapyapp/UserSettingsActivity.java
+ com.example.speechtherapyapp.UserSettingsActivity
+com/example/speechtherapyapp/xml/XmlSaxHandler.java
+ com.example.speechtherapyapp.xml.XmlSaxHandler
+com/example/speechtherapyapp/MainActivity.java
+ com.example.speechtherapyapp.MainActivity
+ com.example.speechtherapyapp.MainActivity$1
+com/example/speechtherapyapp/business/WordRecord.java
+ com.example.speechtherapyapp.business.WordRecord
+com/example/speechtherapyapp/business/WordRecordList.java
+ com.example.speechtherapyapp.business.WordRecordList

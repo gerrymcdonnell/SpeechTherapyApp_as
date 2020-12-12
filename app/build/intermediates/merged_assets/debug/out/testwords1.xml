@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+	<word>
+		<wordtitle>Submarine</wordtitle>
+		<syllables>sub-mar-ine	</syllables>
+		<picturepath>images/yellow-submarine.jpg</picturepath>
+		<audiofile>audio/submarine__gb_2.mp3</audiofile>
+	</word>
+	
+		<word>
+		<wordtitle>computer</wordtitle>
+		<syllables>com-pute-r</syllables>
+		<picturepath>images/computer.jpg</picturepath>
+		<audiofile>audio/computer__gb_1.mp3</audiofile>
+	</word>
+
+</words>

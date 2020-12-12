@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_good.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_action_good.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_about.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_load.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_load.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_prefs.xml.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\layout\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shuffle.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_pickgallery.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_action_pickgallery.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_prefs.xml.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_previous_item.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\nav_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_star.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_action_star.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\gerry\\StudioProjects\\SpeechTherapyApp\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]
